@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    padding: 8em;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+ul{
+    list-style: none; 
+}
+.list{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 70em;
+}
+h1{
+    font-size: xx-large;
+    font-weight: 900;
+}
